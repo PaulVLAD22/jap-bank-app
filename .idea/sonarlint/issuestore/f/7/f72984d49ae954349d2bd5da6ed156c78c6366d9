@@ -1,0 +1,17 @@
+
+{
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ïÉÔùÿÿÿÿ8‚üªÂ½1
+v
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ààç8‚üªÂ½1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ì¶Èò8ƒüªÂ½1
+
+java:S1319"bThe type of "to" should be an interface such as "List" rather than the implementation "ArrayList".(å”Ëª8ƒüªÂ½1
+’
+java:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£Å–ëøÿÿÿÿ8ƒüªÂ½1
+
+java:S1319."dThe type of "copy" should be an interface such as "List" rather than the implementation "ArrayList".(ªşû¥8ƒüªÂ½1
+?
+java:S1659""Declare "copy" on a separate line.(°ŠÊı8ˆüªÂ½1
+?
+java:S1659""Declare "body" on a separate line.(´«Ğî8ˆüªÂ½1

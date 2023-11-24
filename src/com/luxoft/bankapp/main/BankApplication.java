@@ -22,15 +22,15 @@ public class BankApplication {
     }
 
     private static void printStatistics(Bank bank) {
-        BankReport bankReport = new BankReport();
-        System.out.println("Bank number of clients: " + bankReport.getNumberOfClients(bank));
-        System.out.println("Bank number of accounts: " + bankReport.getNumberOfAccounts(bank));
-        System.out.println("Bank total account sum: " + bankReport.getTotalSumInAccounts(bank));
-        System.out.println("Get clients sorted: " + bankReport.getClientsSorted(bank));
-        System.out.println("Get accounts sorted by sum: " + bankReport.getAccountsSortedBySum(bank));
-        System.out.println("Get bank credit sum: " + bankReport.getBankCreditSum(bank));
-        System.out.println("Get customer accounts: " + bankReport.getCustomerAccounts(bank));
-        System.out.println("Get clients by city: " + bankReport.getClientsByCity(bank));
+        BankReport bankReport = new BankReport(bank);
+        System.out.println("Bank number of clients: " + bankReport.getNumberOfClients());
+        System.out.println("Bank number of accounts: " + bankReport.getNumberOfAccounts());
+        System.out.println("Bank total account sum: " + bankReport.getTotalSumInAccounts());
+        System.out.println("Get clients sorted: " + bankReport.getClientsSorted());
+        System.out.println("Get accounts sorted by sum: " + bankReport.getAccountsSortedBySum());
+        System.out.println("Get bank credit sum: " + bankReport.getBankCreditSum());
+        System.out.println("Get customer accounts: " + bankReport.getCustomerAccounts());
+        System.out.println("Get clients by city: " + bankReport.getClientsByCity());
     }
 
     private static void modifyBank() {

@@ -29,3 +29,15 @@ _
 /src/com/luxoft/bankapp/service/BankService.java,8\4\84a095f62837f131a43a32b22dc6f77ae60f819c
 ]
 -src/com/luxoft/bankapp/domain/BankReport.java,5\6\56ceae13217d62ca0693d49db4ca1de03b19623f
+v
+Fsrc/com/luxoft/bankapp/exceptions/OverdraftLimitExceededException.java,a\b\ab2678e86163d86e21a76bc6f0af9429db27505d
+W
+'src/com/luxoft/bankapp/email/Email.java,f\7\f72984d49ae954349d2bd5da6ed156c78c6366d9
+`
+0src/com/luxoft/bankapp/email/EmailException.java,f\4\f45b9ca92c61d8955fd471e251582ea459adc0cf
+W
+'src/com/luxoft/bankapp/email/Queue.java,b\e\bec25ed3983eb055a7fa9dc710b1b11b7d4cc37b
+^
+.src/com/luxoft/bankapp/email/EmailService.java,8\8\885bf114f4361ec6158c46bf4b2e317aebf50ad5
+d
+4src/com/luxoft/bankapp/domain/BankReportStreams.java,6\6\663919408d1e7959305c9a982c5c9a0ac4ce7536

@@ -1,6 +1,6 @@
 package com.luxoft.bankapp.service;
 
-import com.luxoft.bankapp.domain.Email;
+import com.luxoft.bankapp.email.Email;
 import com.luxoft.bankapp.generics.Queue;
 
 

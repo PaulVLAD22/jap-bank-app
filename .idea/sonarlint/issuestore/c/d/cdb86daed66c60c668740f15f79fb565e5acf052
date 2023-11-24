@@ -3,14 +3,14 @@
 java:S11925"¡Define a constant instead of duplicating this literal "Not enough funds for account %d, balance: %.2f, overdraft: %.2f, tried to extract amount: %.2f%n" 3 times.(¾€º…ıÿÿÿÿ8£Í«±1
 ³
 java:S11927"Define a constant instead of duplicating this literal "Not enough funds for account %d, balance: %.2f, tried to extract amount: %.2f%n" 3 times.(‰§å‚üÿÿÿÿ8¤Í«±1
-L	java:S106"+Replace this use of System.out by a logger.(Ç†ıºùÿÿÿÿ8òÍ«±1
-L	java:S106"+Replace this use of System.out by a logger.(ô¿é¹ıÿÿÿÿ8òÍ«±1
-L	java:S106"+Replace this use of System.out by a logger.(ßÚ¿øÿÿÿÿ8óÍ«±1
-L	java:S106"+Replace this use of System.out by a logger.(øÙÕ£úÿÿÿÿ8óÍ«±1
-L	java:S106"+Replace this use of System.out by a logger.(ıµ›Âüÿÿÿÿ8ôÍ«±1
-L	java:S106"+Replace this use of System.out by a logger.(œ‰‘¯üÿÿÿÿ8ôÍ«±1
-L	java:S106 "+Replace this use of System.out by a logger.(§Â¯½ùÿÿÿÿ8õÍ«±1
-F	java:S106!"+Replace this use of System.out by a logger.(Ë”ß28õÍ«±1
+L	java:S106"+Replace this use of System.out by a logger.(Ïøôšüÿÿÿÿ8òÍ«±1
+F	java:S106"+Replace this use of System.out by a logger.(£‚ğL8òÍ«±1
+G	java:S106"+Replace this use of System.out by a logger.(£©çŠ8óÍ«±1
+G	java:S106"+Replace this use of System.out by a logger.(£ ±İ8óÍ«±1
+G	java:S106"+Replace this use of System.out by a logger.(‡¬§Ñ8ôÍ«±1
+G	java:S106"+Replace this use of System.out by a logger.(óÁèÎ8ôÍ«±1
+L	java:S106 "+Replace this use of System.out by a logger.(¢ÖÍ·ÿÿÿÿÿ8õÍ«±1
+L	java:S106!"+Replace this use of System.out by a logger.(ÃÃ£İøÿÿÿÿ8õÍ«±1
 L	java:S106."+Replace this use of System.out by a logger.(ŸÑµ×ûÿÿÿÿ8úÍ«±1
 L	java:S1065"+Replace this use of System.out by a logger.(¾€º…ıÿÿÿÿ8ûÍ«±1
 L	java:S1067"+Replace this use of System.out by a logger.(‰§å‚üÿÿÿÿ8üÍ«±1
